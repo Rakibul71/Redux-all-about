@@ -1,0 +1,10 @@
+Redux is  a state management library in javascript .
+log-rocket: modern  frontend monitoring and product analytics
+1.Easier debugging 
+2.Easier testing.
+3.Undo/Redo.
+4.Preserve Page State.
+5.Persist State.
+
+////////////////////////////////
+npm install
